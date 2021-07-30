@@ -2,3 +2,7 @@
 function login() {
   // code
 }
+
+function register() {
+  // code
+}
